@@ -1,7 +1,7 @@
 # HuyCifer-Land 
 <h1 align="center">Hi 👋, I'm HuyCifer</h1>
 <h3 align="center">A student from Ha Noi University of Civil Engineering</h3>
-<h4 align="center">Field:Cryptography Forensics Cyber Security AI </h4>
+<h4 align="center">Field:Cryptography - Forensics - Information Security - AI </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huycifer&label=Profile%20views&color=0e75b6&style=flat" alt="huycifer" /> </p>
 
 - 📫 How to reach me **nguyenduchuy1907jk@gmail.com**
