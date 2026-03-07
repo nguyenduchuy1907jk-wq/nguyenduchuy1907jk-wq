@@ -58,7 +58,8 @@ protocols, and architectural decisions behind modern security technologies.
 │                Major: Information Security                          │
 │                Achievement: 🥈 2nd Prize — Physics                  |
 │                             Outstanding Student Award (HUCE)        │
-│                             GPA:4.0 in First Semester               │
+│                             GPA:4.0 in First Semester               |
+│                             ye-PhD Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
 │                Achievement: 🥉 3rd Prize — Physics                  │
 │                             District Level: Hoàn Kiếm & Hai Bà Trưng│
