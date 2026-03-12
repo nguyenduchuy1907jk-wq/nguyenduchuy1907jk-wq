@@ -68,7 +68,7 @@ protocols, and architectural decisions behind modern security technologies.
 |                                +Complete National Defense           |  
 |                                  and Security Education Certificate||
 |                             *)Second Semester:                      |
-|                                 +Lab of Fundamental Physics:A       |
+|                                +Lab of Fundamental Physics:A        |
 │                             ye-PhD Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
 │                Achievement: 🥉 3rd Prize — Physics                  │
