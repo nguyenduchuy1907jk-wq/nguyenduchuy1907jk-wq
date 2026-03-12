@@ -65,9 +65,10 @@ protocols, and architectural decisions behind modern security technologies.
 |                                +Linear Algebra : A                  | 
 |                                +Introduction to Computer Science:A  |
 |                                +Introduction to Cyber Security:A    |
-|                                +Lab of Fundamental Physics:A        |
 |                                +Complete National Defense           |  
-|                                  and Security Education Certificate |
+|                                  and Security Education Certificate||
+|                             *)Second Semester:                      |
+|                                 +Lab of Fundamental Physics:A       |
 │                             ye-PhD Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
 │                Achievement: 🥉 3rd Prize — Physics                  │
