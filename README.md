@@ -59,6 +59,15 @@ protocols, and architectural decisions behind modern security technologies.
 │                Achievement: 🥈 2nd Prize — Physics                  |
 │                             Outstanding Student Award (HUCE)        │
 │                             GPA:4.0 in First Semester               |
+|                             *)First Semester:                       | 
+|                                +Physics Fundamental I : A           | 
+|                                +Caculus 1 : A                       |
+|                                +Linear Algebra : A                  | 
+|                                +Introduction to Computer Science:A  |
+|                                +Introduction to Cyber Security:A    |
+|                                +Lab of Fundamental Physics:A        |
+|                                +Complete National Defense           |  
+|                                  and Security Education Certificate |
 │                             ye-PhD Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
 │                Achievement: 🥉 3rd Prize — Physics                  │
