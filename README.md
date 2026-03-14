@@ -58,7 +58,7 @@ In my blog , I'll wrote about everything I have learned about : algorithms,CTF w
 │  [2025 → now]  Hanoi University of Civil Engineering (HUCE)         │
 │                Major: Information Security                          │
 │                Achievement: 🥈 2nd Prize — Physics                  |
-│                             Outstanding Student Award (HUCE)        │
+│                             Outstanding Student Award (HUCE 2025)   │
 │                             GPA:4.0 in First Semester               |
 |                             *)First Semester:                       | 
 |                                +Physics Fundamental I : A           | 
@@ -72,8 +72,10 @@ In my blog , I'll wrote about everything I have learned about : algorithms,CTF w
 |                                +Lab of Fundamental Physics:A        |
 │                             ye-PhD Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
-│                Achievement: 🥉 3rd Prize — Physics                  │
-│                             District Level: Hoàn Kiếm & Hai Bà Trưng│
+│                Achievement:+🥉 3rd Prize — Physics                  │
+│                       District Level: Hoàn Kiếm & Hai Bà Trưng(2024)│
+|                            +🥉 3rd Prize — Physics School Level(2024)|
+|                         +Consolation Prize-Physics School Level(2023)| 
 │                             GPA Physics 9.8/10 with 10/10 in 2024   │
 └─────────────────────────────────────────────────────────────────────┘
 ```
