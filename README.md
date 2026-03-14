@@ -39,7 +39,7 @@ Goal:      Advanced research in cryptography & AI-driven security systems
 
 I build and break systems to deeply understand the underlying mathematics,
 protocols, and architectural decisions behind modern security technologies.
-In my blog , I'll wrote about everything I have learned : algorithms,CTF write-up,code,.... 
+In my blog , I'll wrote about everything I have learned about : algorithms,CTF write-up,code,.... 
 
 </details>
 
