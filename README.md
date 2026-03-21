@@ -67,7 +67,8 @@ In my blog , I'll wrote about everything I have learned about : algorithms,CTF w
 |                                +Introduction to Computer Science:A  |
 |                                +Introduction to Cyber Security:A    |
 |                                +Complete National Defense           |  
-|                                  and Security Education Certificate||
+|                                  and Security Education Certificate |
+|                                + Academic Excellence Scholarship    |
 |                             *)Second Semester:                      |
 |                                +Lab of Fundamental Physics:A        |
 │                             ye-PhD Lab member                       |
