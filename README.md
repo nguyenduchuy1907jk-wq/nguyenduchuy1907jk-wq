@@ -59,18 +59,11 @@ In my blog , I'll wrote about everything I have learned about : algorithms,CTF w
 │                Major: Information Security                          │
 │                Achievement: 🥈 2nd Prize — Physics                  |
 │                             Outstanding Student Award (HUCE 2025)   │
-│                             GPA:4.0 in First Semester               |
 |                             *)First Semester:                       | 
-|                                +Physics Fundamental I : A           | 
-|                                +Caculus 1 : A                       |
-|                                +Linear Algebra : A                  | 
-|                                +Introduction to Computer Science:A  |
-|                                +Introduction to Cyber Security:A    |
 |                                +Complete National Defense           |  
 |                                  and Security Education Certificate |
 |                                + Academic Excellence Scholarship    |
-|                             *)Second Semester:                      |
-|                                +Lab of Fundamental Physics:A        |
+|                                    (4.0 GPA)                        |
 │                             ye-PhD Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
 │                Achievement:+🥉 3rd Prize — Physics                  │
