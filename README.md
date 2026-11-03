@@ -64,7 +64,9 @@ In my blog , I'll wrote about everything I have learned about : algorithms,CTF w
 |                                  and Security Education Certificate |
 |                                + Academic Excellence Scholarship    |
 |                                    (4.0 GPA)                        |
-│                             ye-PhD Lab member                       |
+|                               *) Second Semester                    |
+|                                + Academic Scholarship               |
+│                              HYCSC Lab member                       |
 │  [2022 → 2025] THPT Thăng Long High School                          │
 │                Achievement:+🥉 3rd Prize — Physics                  │
 │                       District Level: Hoàn Kiếm & Hai Bà Trưng(2024)│
